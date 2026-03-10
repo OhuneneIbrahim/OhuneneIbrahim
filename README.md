@@ -23,3 +23,12 @@ and sub-image classification, achieving high precision for both NET-positive and
   <p align="center"> 
    <img width="410" height="336" alt="image" src="https://github.com/user-attachments/assets/683b8025-7a55-4201-a71f-45c548956a4c" />
 </p>
+
+
+3. Flower image classification
+
+The task is to develop, train and fine-tuned vgg16 models through transfer learning, which I implemented with k-fold cross validation. The models with test accuracies of $77\% - 83\%$ correctly recognize and classify various 102 different species of flower.
+
+<p align="center"> 
+<img width="428" height="268" alt="Screenshot 2026-03-10 at 22 13 33" src="https://github.com/user-attachments/assets/970dc5ff-4b18-43bb-ac66-16360a3c0496" />
+</p>
