@@ -11,6 +11,7 @@ Python • Pandas • NumPy • Scikit-learn • PyTorch • TensorFlow • SQL 
 1. Automated Recognition and Quantification of NETs
   In this project, I (together with three others) designed an end-to-end microscopy image analysis system using instance segmentation %(Detectron2) 
 and sub-image classification, achieving high precision for both NET-positive and NET-negative classes
-
+<p align="center">
 <img width="312" height="312" alt="Ctr _1h_DFO-Zeitkinetik_2_result" src="https://github.com/user-attachments/assets/6556088f-6ddc-4cb7-8281-ee71b49b799f" />
+</p>
 Instance segmentation with detectron 2
