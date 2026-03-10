@@ -13,3 +13,4 @@ Python • Pandas • NumPy • Scikit-learn • PyTorch • TensorFlow • SQL 
 and sub-image classification, achieving high precision for both NET-positive and NET-negative classes
 
 <img width="312" height="312" alt="Ctr _1h_DFO-Zeitkinetik_2_result" src="https://github.com/user-attachments/assets/6556088f-6ddc-4cb7-8281-ee71b49b799f" />
+Instance segmentation with detectron 2
