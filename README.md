@@ -7,3 +7,6 @@ I have a background in Physics, Mathematical Sciences, and Energy Engineering. M
 ## Technical Skills
 Python • Pandas • NumPy • Scikit-learn • PyTorch • TensorFlow • SQL • Data Visualization
 
+## Featured Projects
+
+
