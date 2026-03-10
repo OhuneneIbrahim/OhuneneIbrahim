@@ -8,5 +8,7 @@ I have a background in Physics, Mathematical Sciences, and Energy Engineering. M
 Python • Pandas • NumPy • Scikit-learn • PyTorch • TensorFlow • SQL • Data Visualization
 
 ## Featured Projects
-
-
+1. Automated Recognition and Quantification of NETs
+  In this project, I (together with three others) designed an end-to-end microscopy image analysis system using instance segmentation %(Detectron2) 
+and sub-image classification, achieving high precision for both NET-positive and NET-negative classes
+![detectron](images/segmentation.png)
