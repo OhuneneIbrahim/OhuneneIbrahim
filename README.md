@@ -18,7 +18,7 @@ image segmentation using ResNet architecture to detect and quantify NET-positive
 <img width="312" height="312" title = "Instance segmentation with detectron2" alt="Ctr _1h_DFO-Zeitkinetik_2_result" src="https://github.com/user-attachments/assets/6556088f-6ddc-4cb7-8281-ee71b49b799f" />
 </p>
 
-2. Market Basket Annalysis:
+2. [Market Basket Annalysis](https://github.com/OhuneneIbrahim/Market-Basket-Analysis):
    
    We performed the market basket analysis using a transaction encoder, Apriori algorithm, and associative rule. Our analysis shows that customers are likely to purchase Whole milk, yogurt, soda, buns, and sausage together. We made recommendations based on our analysis results. This information can be used by the retail company to make active decisions that can improve their sales and customer services.
   <p align="center"> 
