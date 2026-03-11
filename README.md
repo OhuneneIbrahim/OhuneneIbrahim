@@ -26,7 +26,7 @@ image segmentation using ResNet architecture to detect and quantify NET-positive
 </p>
 
 
-3. Flower image classification
+3. [Flower Species classification Using Deep Learning](https://github.com/OhuneneIbrahim/Flower-Species-Classification-Using-Deep-Learning)
 
 The task is to develop, train and fine-tuned vgg16 models through transfer learning, which I implemented with k-fold cross validation. The models with test accuracies of $77\% - 83\%$ correctly recognize and classify various 102 different species of flower.
 
