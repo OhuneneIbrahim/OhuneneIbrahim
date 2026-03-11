@@ -43,7 +43,7 @@ image segmentation using ResNet architecture to detect and quantify NET-positive
 </td>
 
 <td align="center">
-<img width="498" height="450" alt="newplot" src="https://github.com/user-attachments/assets/a728701a-5dee-45df-b2c4-6b31f8cf064c" />
+   <img width="498" height="450" alt="newplot-2" src="https://github.com/user-attachments/assets/45b71804-c5f5-4b43-8c28-3f271b49d3c3" />
 
 **Quantification**
 
