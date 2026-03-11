@@ -14,6 +14,23 @@ NETs are key components of the innate immune response and play an
 important role in infection and inflammatory diseases. In this project, we developed machine learning pipelines and
 image segmentation using ResNet architecture to detect and quantify NET-positive cells from microscopy images.
 
+<table>
+<tr>
+<td align="center">
+
+** Analysis and prediction with sub-imaging method**
+<img width="528" height="310" alt="Screenshot 2026-03-11 at 14 37 59" src="https://github.com/user-attachments/assets/c7725e52-5eaf-40b6-92df-4128d3f0e478" />
+</td>
+
+<td align="center">
+<img width="498" height="450" alt="newplot" src="https://github.com/user-attachments/assets/a728701a-5dee-45df-b2c4-6b31f8cf064c" />
+** Image Quantification **
+
+</td>
+</tr>
+</table>
+
+
 <p align="center">
 <img width="312" height="312" title = "Instance segmentation with detectron2" alt="Ctr _1h_DFO-Zeitkinetik_2_result" src="https://github.com/user-attachments/assets/6556088f-6ddc-4cb7-8281-ee71b49b799f" />
 </p>
