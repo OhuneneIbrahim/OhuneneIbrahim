@@ -8,10 +8,11 @@ I have a background in Physics, Mathematical Sciences, and Energy Engineering. M
 Python • Pandas • NumPy • Scikit-learn • PyTorch • TensorFlow • SQL • Data Visualization
 
 ## Featured Projects
-1. Automated Recognition and Quantification of NETs:
-   
-  In this project, I (together with three others) designed an end-to-end microscopy image analysis system using instance segmentation (Detectron2) 
-and sub-image classification, achieving high precision for both NET-positive and NET-negative classes
+1. [Automated Recognition and Quantification of NETs]([https://github.com/username/repository-name](https://github.com/OhuneneIbrahim/Streamlit-App-Automated-NET-Recognition-and-Quantification)):
+
+NETs are key components of the innate immune response and play an
+important role in infection and inflammatory diseases. In this project, we developed machine learning pipelines and
+image segmentation using ResNet architecture to detect and quantify NET-positive cells from microscopy images.
 
 <p align="center">
 <img width="312" height="312" title = "Instance segmentation with detectron2" alt="Ctr _1h_DFO-Zeitkinetik_2_result" src="https://github.com/user-attachments/assets/6556088f-6ddc-4cb7-8281-ee71b49b799f" />
