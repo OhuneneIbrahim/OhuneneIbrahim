@@ -19,7 +19,7 @@ image segmentation using ResNet architecture to detect and quantify NET-positive
 <td align="center">
 
 **Analysis and prediction with sub-imaging method**
-<img width="528" height="310" alt="Screenshot 2026-03-11 at 14 37 59" src="https://github.com/user-attachments/assets/c7725e52-5eaf-40b6-92df-4128d3f0e478" />
+<img width="328" height="310" alt="Screenshot 2026-03-11 at 14 37 59" src="https://github.com/user-attachments/assets/c7725e52-5eaf-40b6-92df-4128d3f0e478" />
 </td>
 
 <td align="center">
@@ -40,7 +40,7 @@ image segmentation using ResNet architecture to detect and quantify NET-positive
 </td>
 
 <td align="center">
-<<img width="640" height="640" alt="20211111-lif_ctr_27-10-21NET488_MPO-633_007-tif_part_5_png rf f3b10cb52c1e5dde98bed5ae7a231046_result" src="https://github.com/user-attachments/assets/e1d1286b-6b4c-49ea-b257-7818e413dea8" />
+<<img width="240" height="240" alt="20211111-lif_ctr_27-10-21NET488_MPO-633_007-tif_part_5_png rf f3b10cb52c1e5dde98bed5ae7a231046_result" src="https://github.com/user-attachments/assets/e1d1286b-6b4c-49ea-b257-7818e413dea8" />
 
 **Instance segemntation with Detectron2 (Mask R-CNN)**
 
