@@ -36,6 +36,7 @@ image segmentation using ResNet architecture to detect and quantify NET-positive
 <td align="center">
 
 **Image segmentation**
+
 <<img width="440" height="440" alt="20211111-lif_ctr_27-10-21NET488_MPO-633_007-tif_part_5_png rf f3b10cb52c1e5dde98bed5ae7a231046_result" src="https://github.com/user-attachments/assets/e1d1286b-6b4c-49ea-b257-7818e413dea8" />
 
 
