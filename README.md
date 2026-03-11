@@ -8,7 +8,7 @@ I have a background in Physics, Mathematical Sciences, and Energy Engineering. M
 Python • Pandas • NumPy • Scikit-learn • PyTorch • TensorFlow • SQL • Data Visualization
 
 ## Featured Projects
-1. [Automated Recognition and Quantification of NETs]([[https://github.com/username/repository-name](https://github.com/OhuneneIbrahim/Streamlit-App-Automated-NET-Recognition-and-Quantification)](https://github.com/OhuneneIbrahim/Streamlit-App-Automated-NET-Recognition-and-Quantification.git)):
+1. [Automated Recognition and Quantification of NETs](https://github.com/OhuneneIbrahim/Streamlit-App-Automated-NET-Recognition-and-Quantification):
 
 NETs are key components of the innate immune response and play an
 important role in infection and inflammatory diseases. In this project, we developed machine learning pipelines and
