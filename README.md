@@ -39,7 +39,6 @@ image segmentation using ResNet architecture to detect and quantify NET-positive
 
 <img width="440" height="440" alt="20211111-lif_ctr_27-10-21NET488_MPO-633_007-tif_part_5_png rf f3b10cb52c1e5dde98bed5ae7a231046_result" src="https://github.com/user-attachments/assets/e1d1286b-6b4c-49ea-b257-7818e413dea8" />
 
-
 </td>
 
 <td align="center">
@@ -59,7 +58,6 @@ image segmentation using ResNet architecture to detect and quantify NET-positive
 
 **Confusion Matrix**
 <img width="450" height="400" alt="Con_matrix" src="https://github.com/user-attachments/assets/7455d264-1f05-4043-950d-6f21392f7558" />
-
 
 
 </td>
