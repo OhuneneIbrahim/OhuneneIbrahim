@@ -51,6 +51,27 @@ image segmentation using ResNet architecture to detect and quantify NET-positive
 </tr>
 </table>
 
+
+
+<table>
+<tr>
+<td align="center">
+
+**Confusion Matrix**
+<img width="513" height="470" alt="Con_matrix" src="https://github.com/user-attachments/assets/7455d264-1f05-4043-950d-6f21392f7558" />
+
+
+
+</td>
+
+<td align="center">
+<img width="567" height="455" alt="cost_plot" src="https://github.com/user-attachments/assets/aa255fb5-1acd-44a2-8993-b2c680c93846" />
+
+**Cost function plot**
+
+</td>
+</tr>
+</table>
 2. [Market Basket Annalysis](https://github.com/OhuneneIbrahim/Market-Basket-Analysis):
    
    We performed the market basket analysis using a transaction encoder, Apriori algorithm, and associative rule. Our analysis shows that customers are likely to purchase Whole milk, yogurt, soda, buns, and sausage together. We made recommendations based on our analysis results. This information can be used by the retail company to make active decisions that can improve their sales and customer services.
