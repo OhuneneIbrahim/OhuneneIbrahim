@@ -58,14 +58,14 @@ image segmentation using ResNet architecture to detect and quantify NET-positive
 <td align="center">
 
 **Confusion Matrix**
-<img width="513" height="470" alt="Con_matrix" src="https://github.com/user-attachments/assets/7455d264-1f05-4043-950d-6f21392f7558" />
+<img width="450" height="400" alt="Con_matrix" src="https://github.com/user-attachments/assets/7455d264-1f05-4043-950d-6f21392f7558" />
 
 
 
 </td>
 
 <td align="center">
-<img width="567" height="455" alt="cost_plot" src="https://github.com/user-attachments/assets/aa255fb5-1acd-44a2-8993-b2c680c93846" />
+<img width="457" height="400" alt="cost_plot" src="https://github.com/user-attachments/assets/aa255fb5-1acd-44a2-8993-b2c680c93846" />
 
 **Cost function plot**
 
